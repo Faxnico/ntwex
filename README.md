@@ -6,6 +6,8 @@
 
 NTWEX is a plugin/DLL for Napoleon Total War that aims to extend and corrects certain functionalities of the game developed by Creative Assembly. It was initially conceived to reintroduce the chat functionality, which was recently removed by Creative Assembly. Please note that using NTWEX is at your own risk, and you are solely responsible for any actions that occur within the chat.
 
+**Supported Game Version:** NTWEX is designed to work with "v1.3.0 Build 2081.2931570" of Napoleon Total War.
+
 ## Disclaimer
 
 The developer of NTWEX holds no liability for any consequences resulting from using this plugin. Modifying your game to restore the chat feature, as instance, is a personal and conscious choice, and any outcomes are your own responsibility.
