@@ -14,7 +14,7 @@ The developer of NTWEX holds no liability for any consequences resulting from us
 
 ### Xenos (Windows DLL Injector)
 
-NTWEX includes the `xenos.exe` tool, which is a Windows DLL injector. Xenos is distributed under the MIT License and can be found on its [GitHub repository](https://github.com/DarthTon/Xenos).
+NTWEX includes the `Xenos.exe` tool, which is a Windows DLL injector. Xenos is distributed under the MIT License and can be found on its [GitHub repository](https://github.com/DarthTon/Xenos).
 
 ## Installation
 
